@@ -1,0 +1,8 @@
+*.pdf
+*.svg
+Lib/*
+tcl/*
+Include/
+Scripts/
+yhdist.py
+pip-selfcheck.json
